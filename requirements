@@ -1,6 +1,6 @@
-requirements.txt
+# requirements.txt
 
-python=3.9
+python=3.13
 
 snowflake-snowpark-python
 
