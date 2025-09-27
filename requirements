@@ -1,7 +1,7 @@
 # requirements.txt
 
-python=3.13
+python = 3.13
 
-snowflake-snowpark-python
+snowflake.snowpark.python
 
 streamlit
